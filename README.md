@@ -9,7 +9,15 @@ Eine Vierte Zeile
 Eine Zehnte Zeite 
 bla 
 bla 
-bla 
+bla
+
+Eine Zeile für mich
+Eine Zeile für mich 
+Eine Zeile für mich 
+
+Eine Zeile für mich 
+
+
 
 
 This repository contains an RL environment based on open-source game Gameplay
